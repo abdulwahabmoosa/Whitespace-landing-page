@@ -37,7 +37,7 @@ export default function ProjectManagementSection() {
             </p>
   
             <button className="mt-6 bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-700 hover:shadow-lg transition">
-              Get Started →
+              Get Started 
             </button>
           </div>
   

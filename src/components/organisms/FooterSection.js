@@ -55,7 +55,7 @@ export default function FooterSection() {
         {/* Bottom Footer */}
         <div className="border-t border-blue-800 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center text-xs gap-4">
           <div className="flex flex-wrap justify-center gap-4">
-            <span>🌐 English</span>
+            <span>English</span>
             <span>Terms & privacy</span>
             <span>Security</span>
             <span>Status</span>

@@ -23,7 +23,7 @@ export default function YourWorkSection() {
   
           <div className="mt-8">
             <button className="bg-blue-400 hover:bg-blue-500 text-white font-medium py-3 px-6 rounded-lg transition">
-              Try Taskey →
+              Try Taskey 
             </button>
           </div>
         </div>

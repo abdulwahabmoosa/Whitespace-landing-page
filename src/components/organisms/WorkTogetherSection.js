@@ -33,7 +33,7 @@ export default function WorkTogetherSection() {
           </p>
 
           <button className="mt-6 bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-700 hover:shadow-lg transition">
-            Try it now →
+            Try it now 
           </button>
         </div>
       </div>

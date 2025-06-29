@@ -24,7 +24,7 @@ export default function UseExtensionSection() {
             </p>
   
             <button className="mt-6 bg-blue-500 hover:bg-blue-700 text-white px-6 py-2 rounded cursor-pointer hover:shadow-xl transition duration-300">
-              Let’s Go →
+              Let’s Go 
             </button>
           </div>
   

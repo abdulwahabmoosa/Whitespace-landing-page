@@ -30,7 +30,7 @@ export default function CustomiseSection() {
             </p>
   
             <button className="mt-6 bg-blue-500 hover:bg-blue-700 text-white px-6 py-2 rounded hover:shadow-md transition">
-              Let’s Go →
+              Let’s Go 
             </button>
           </div>
         </div>
